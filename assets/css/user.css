@@ -158,6 +158,16 @@ footer h5 {
   color:inherit;
 }
 
+#footer{
+	position:fixed;
+	bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+}
+
+
+
 div.container.post {
   margin-bottom:50px;
 }
@@ -172,4 +182,8 @@ div.container.post {
 .coming_soon {
 	max-width: 226px !important;
 	height: 130px !important;
+}
+
+.row {
+	padding-bottom: 30px;
 }
