@@ -178,10 +178,10 @@ div.container.post {
 }
 
 
-
-.coming_soon {
-	max-width: 226px !important;
-	height: 130px !important;
+.img-fluid {
+	max-width: 87%;
+	height: 130px;
+	margin: 18px;
 }
 
 .row {
